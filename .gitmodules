@@ -1,0 +1,6 @@
+[submodule "OrbX_Backend"]
+	path = OrbX_Backend
+	url = https://github.com/Madhs31/OrbX_Backend.git
+[submodule "OrbX_Frontend"]
+	path = OrbX_Frontend
+	url = https://github.com/Madhs31/OrbX_Frontend.git
